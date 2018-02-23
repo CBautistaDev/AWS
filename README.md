@@ -1,1 +1,1 @@
-# AWS AWS Examples
+# AWS Examples
